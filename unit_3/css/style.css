@@ -1,13 +1,17 @@
 body {
   text-align: center;
   list-style-type:none;
-  background: url("http://www.royalcupcoffee.com/sites/default/files/images/blog/shutterstock_121714432.jpg");
+  background: url("http://sprudge.com/wp-content/uploads/2015/08/Sprudge-CafeLillebror-EileenKenny-IMG_0006-740x493.jpg");
   background-size: cover;
   color: #FFFEE6;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
 }
-hr {
-  width: 400px;
+h3 {   
+    font-size: 20px;
 }
-p { font-size: 48px; 
+hr {
+  width: 200px;
+}
+
+p { font-size: 40px; 
 }
