@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  list-style-type:none;
+  background: url("http://www.royalcupcoffee.com/sites/default/files/images/blog/shutterstock_121714432.jpg");
+  background-size: cover;
+  color: #FFFEE6;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+}
+hr {
+  width: 400px;
+}
+p { font-size: 48px; 
+}
