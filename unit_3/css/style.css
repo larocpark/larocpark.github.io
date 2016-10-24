@@ -1,18 +1,24 @@
 body {
   text-align: center;
   list-style-type:none;
-  background: url("https://a.ctimg.net/umuLKaFqRb6Y9BzLe-npwA/indian-style-cappuccino.jpg");
+  background: url("https://c1.staticflickr.com/7/6163/6148871513_6b045c43ab_b.jpg");
   background-size: cover;
-  color: #FFFEE6;
+  color: blanchedalmond;
   padding:0;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
 }
+h1 {font-size: 60px;
+	font-weight: 900px;
+	color:steelblue;
+
+}
 h3 {   
-    font-size: 20px;
+    font-size: 48px;
 }
 hr {
   width: 400px;
 }
 
-p { font-size: 40px; 
+p { font-size: 16px;
+
 }
