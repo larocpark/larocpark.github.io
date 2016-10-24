@@ -1,16 +1,17 @@
 body {
   text-align: center;
   list-style-type:none;
-  background: url("http://sprudge.com/wp-content/uploads/2015/08/Sprudge-CafeLillebror-EileenKenny-IMG_0006-740x493.jpg");
+  background: url("https://a.ctimg.net/umuLKaFqRb6Y9BzLe-npwA/indian-style-cappuccino.jpg");
   background-size: cover;
   color: #FFFEE6;
+  padding:0;
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
 }
 h3 {   
     font-size: 20px;
 }
 hr {
-  width: 200px;
+  width: 400px;
 }
 
 p { font-size: 40px; 
