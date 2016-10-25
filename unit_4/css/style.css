@@ -1,34 +1,46 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>On the Dot Bakery &amp; Cafe</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-</head>
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Marcellus+SC|Monofett');
 
-<body>
-<h1>On the Dot Bakery &amp; Cafe</h1>
+body {
+  text-align: center;
 
-<p id="slogan">But First, Coffee...</p>
+  background: url("https://c1.staticflickr.com/7/6163/6148871513_6b045c43ab_b.jpg");
+  background-size: cover;
+  color: rgb(90,123,140);
+  padding:0;
+  font-family: 'Marcellus SC', serif;
 
-<hr>
+}
+h1 {
+	font-family: 'Monofett', cursive;
+	font-size: 80px;
+	font-weight: 900px;
+	color: rgb(90,123,140);
+}
 
-<p>Artisanal coffee brewed fresh daily. Goes perfectly with our selection of baked goods made daily from local, organic ingredients.</p>
+#slogan {
+	font-family: 'Amatic SC', cursive;
+	color: burlywood;
+	font-size:48px;
+}
+#menu {
+	font: ;
+}
 
-<p id="menu">Coffee Menu</p>
-	<ul>
-		<li>Espresso</li>
-		<li>Macchiato</li>
-		<li>Cappuccino</li>
-		<li>Latte</li>
-		<li>Mocha</li>
-		<li>Americano</li>
-		<li>Flat White</li>
-		<li>Espresso con panna</li>
-	</ul>
+h3 {   
+    font-size: 80px;
+}
 
-<h5>Contact me at <a href="lrparker01@gmail.com">lrparker01@gmail.com</a> for further information.</h5>
-	
+hr {
+  width: 500px;
+}
 
-</body>
+p { font-size: 35px;
+	list-style-type: none;
 
-</html>
+}
+ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
+    font-weight:bolder;
+}
