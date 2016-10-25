@@ -8,7 +8,7 @@ body {
   color: rgb(90,123,140);
   padding:0;
   font-family: 'Rhodium Libre', serif;
-  font-size:1.5em;
+  font-size:2em;
 
 
 }
@@ -25,6 +25,11 @@ h1 {
 	font-size:60px;
 	font-weight:bolder;
 }
+
+#aboutus {
+	font-size: 1em;
+}
+
 #menu {
 	font-weight: bolder;
 }
@@ -37,7 +42,7 @@ hr {
   width: 500px;
 }
 
-p { font-size: 2em;
+p { font-size: 1.5em;
 	list-style-type: none;
 
 }
@@ -46,4 +51,5 @@ ul {
     padding: 0;
     margin: 0;
     font-weight:bolder;
+    font-size-adjust: 0.5em;
 }
