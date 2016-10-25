@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>On the Dot Bakery &amp; Cafe</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+<h1>On the Dot Bakery &amp; Cafe</h1>
+
+<p id="slogan">But First, Coffee...</p>
+
+<hr>
+
+<p>Artisanal coffee brewed fresh daily. Goes perfectly with our selection of baked goods made daily from local, organic ingredients.</p>
+
+<p id="menu">Coffee Menu</p>
+	<ul>
+		<li>Espresso</li>
+		<li>Macchiato</li>
+		<li>Cappuccino</li>
+		<li>Latte</li>
+		<li>Mocha</li>
+		<li>Americano</li>
+		<li>Flat White</li>
+		<li>Espresso con panna</li>
+	</ul>
+
+<h5>Contact me at <a href="lrparker01@gmail.com">lrparker01@gmail.com</a> for further information.</h5>
+	
+
+</body>
+
+</html>
