@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Marcellus+SC|Monofett');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Monofett|Rhodium+Libre');
 
 body {
   text-align: center;
@@ -7,12 +7,14 @@ body {
   background-size: cover;
   color: rgb(90,123,140);
   padding:0;
-  font-family: 'Marcellus SC', serif;
+  font-family: 'Rhodium Libre', serif;
+  font-size:1.5em;
+
 
 }
 h1 {
 	font-family: 'Monofett', cursive;
-	font-size: 80px;
+	font-size: 90px;
 	font-weight: 900px;
 	color: rgb(90,123,140);
 }
@@ -20,21 +22,22 @@ h1 {
 #slogan {
 	font-family: 'Amatic SC', cursive;
 	color: burlywood;
-	font-size:48px;
+	font-size:60px;
+	font-weight:bolder;
 }
 #menu {
-	font: ;
+	font-weight: bolder;
 }
 
 h3 {   
-    font-size: 80px;
+    font-size: 100px;
 }
 
 hr {
   width: 500px;
 }
 
-p { font-size: 35px;
+p { font-size: 30px;
 	list-style-type: none;
 
 }
