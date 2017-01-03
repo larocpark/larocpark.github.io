@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Monofett|Rhodium+Libre');
+
+body {
+  text-align: center;
+
+  background: url("https://c1.staticflickr.com/7/6163/6148871513_6b045c43ab_b.jpg");
+  background-size: cover;
+  color: rgb(90,123,140);
+  padding:0;
+  font-family: 'Rhodium Libre', serif;
+  font-size:1.5em;
+
+}
+header {
+   border: 1px black solid;
+   padding: 20px;
+}
+div {
+    border: 1px black solid;
+    padding: 20px;
+}
+section {
+    border: 1px black solid;
+    padding: 20px;
+}
+nav {
+    border: 1px black solid;
+    padding: 20px;
+}
+footer {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+  font-family: 'Monofett', cursive;
+  font-size: 90px;
+  font-weight: 100;
+  color: rgb(90,123,140);
+}
+
+#slogan {
+  font-family: 'Amatic SC', cursive;
+  color: burlywood;
+  font-size:60px;
+  font-weight:bolder;
+}
+
+#aboutus {
+  font-size: 1em;
+}
+
+#two_column {
+    padding: 20px;
+}
+#left {
+    padding: 20px;
+    float: left;
+    width: 40%;
+}
+
+#right {
+    padding: 20px;
+    float: right;   
+    width: 40%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+h3 {   
+    font-size: 100px;
+}
+
+hr {
+  width: 500px;
+}
+
+p { font-size: 1.5em;
+  list-style-type: none;
+  margin:0.5em;
+
+}
+ul {
+    list-style: none; /* Remove list bullets */
+    padding: 0;
+    margin: 0;
+    font-weight:bolder;
+    font-size-adjust: 0.5em;
+}
+footer {
+  text-align: center;
+  padding: 1em 0;
+  @media only screen and (min-width: 320px) and (max-width: 480px) { font-size: 14px; }
+}
